@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CharlesBaudinet
+- 👀 I’m interested in Statistics, Machine Learning, Deep Leanring, etc.
+- 🌱 I’m currently learning Data Science in the University of Liège
+- 💞️ I’m looking to collaborate on all kind of project related to Machine Learning
+- 📫 You can contact me by email: ch.baudinet@gmail.com
